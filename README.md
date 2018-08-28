@@ -16,9 +16,10 @@ The dealer must hit at 16 or lower. And must stand on 17 and above.
 ## Local Development
 1. Clone this repo
 2. Run this project under Homestead
-3. Project was developed using:
+3. Run `composer install`
+4. Project was developed using:
   http://blackjack.local/
 
 ## Development Notes
-1. I made this project to be backend driven so there is no use of Javascript on the front end. 
+1. I made this project to be backend driven so there is no use of Javascript on the front end.
 2. I included the Homestead yaml file that was used for development as Homestead.yaml.dev
