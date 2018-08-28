@@ -42,7 +42,7 @@ class Player extends Model
 
       // add to score, Ace is worth 11 points
       $cardValue = 0;
-      if ($card[1] == 'Ace')
+      if ($card[1] == 'A')
       {
         $cardValue = 11;
       }
